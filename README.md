@@ -4,7 +4,7 @@
 <pre>
 @font-face {
     font-family: "gotGam";
-    font-weight: 800;
+    font-weight: normal;
     font-style: normal;
     src: url("https://cdn.jsdelivr.net/gh/wefonts/gotGam/gotGam.eot");
     src: url("https://cdn.jsdelivr.net/gh/wefonts/gotGam/gotGam.eot?#iefix") format("embedded-opentype"),
